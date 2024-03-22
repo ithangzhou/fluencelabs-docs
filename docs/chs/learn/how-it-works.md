@@ -140,11 +140,11 @@ Under-the-hood, for every application deployment, a Deal is being created on-cha
 
 ### 计价模型
 
-最初，计费模式是预付费的，基于资源租赁时间和所需epoch。最小资源租赁是一个包含2个epoch的**计算单位**，其中epoch定义为1天，计算单位是1个Core、4GB内存、5GB虚拟磁盘空间。客户需要预付最小期限的费用，以确保提供商得到工作的报酬。
+最初，计费模式是预付费的，基于资源租赁时间和所需epoch。最小资源租赁是一个包含2个epoch的**计算单位**，其中epoch定义为1天，计算单位是1个Core、4GB内存、5GB虚拟磁盘空间。客户需要预付最小资源的费用，以确保提供商得到工作的报酬。
 
 Initially, the billing model is pre-paid, based on time of resource rental and accounted in epochs. Minimal resource rental is a single **Compute Unit** for 2 epochs, where one epoch is defined as 1 day, and Compute Unit is 1 core, 4GB memory, 5GB virtual disk space. Pre-payment for minimal period is required from the customer so providers are ensured of getting paid for work.
 
-按需的计费模式和**弹性计算单位**将在项目的后续阶段引入。
+按需计费模式和**弹性计算单元**将在项目的后续阶段引入。
 
 The request-based billing model, and **Elastic Compute Units** will be introduced in next stages of the project.
 
