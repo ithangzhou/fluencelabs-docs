@@ -144,7 +144,7 @@ Under-the-hood, for every application deployment, a Deal is being created on-cha
 
 Initially, the billing model is pre-paid, based on time of resource rental and accounted in epochs. Minimal resource rental is a single **Compute Unit** for 2 epochs, where one epoch is defined as 1 day, and Compute Unit is 1 core, 4GB memory, 5GB virtual disk space. Pre-payment for minimal period is required from the customer so providers are ensured of getting paid for work.
 
-按需的计费模式和弹性计算单位将在项目的后续阶段引入。
+按需的计费模式和**弹性计算单位**将在项目的后续阶段引入。
 
 The request-based billing model, and **Elastic Compute Units** will be introduced in next stages of the project.
 
