@@ -1,6 +1,6 @@
 # Why Fluence?
 
-互联网由少数科技巨头主导，他们控制着用户数据和基础设施。“数据极权主义者”的立场允许他们使用和滥用个人用户数据，同时也威胁到单点故障的业务连续性以及简单地关闭整个软件生态系统的能力。这种集中式数据所有权是单点故障，很容易成为审查和政府操纵的目标。
+互联网由少数科技巨头主导，他们控制着用户数据和基础设施。“数据极权主义者”的立场允许他们使用和滥用个人用户数据，同时也威胁到单点故障的业务连续性以及轻易关闭整个软件生态系统的能力。这种集中式数据所有权是单点故障，很容易成为审查和政府操纵的目标。
 
 The internet is dominated by a handful of tech giants who control both user data and infrastructure. The position of "data totalitarians" allows them to use and misuse personal user data while also threatening businesses continuity with single points of failure and the ability to simply turn off entire software ecosystems. Such centralized data ownership presents a single point of failure and an easy target for censorship and government manipulation.
 
@@ -20,13 +20,13 @@ Similar to internet protocols such as HTTP, the Fluence protocol applies no limi
 
 ## 抗审查
 
-没有办法审查谁在使用Fluence或在Fluence上执行什么。客户和提供商使用该协议来查找彼此并执行工作。如果提供商受到当地监管机构的限制，他们可以自由过滤他们正在执行的内容，但由于客户不会被锁定在特定的提供商中，因此总有一些选项可以满足客户的标准。
+没有办法审查谁在使用Fluence或在Fluence上执行什么。客户和提供商使用该协议来发现彼此并执行工作。如果提供商受到当地监管机构的限制，他们可以自由过滤他们正在执行的内容，但由于客户不会被锁定在特定的提供商中，因此总有一些选项可以满足客户的标准。
 
 There is no way to censor who uses Fluence or what is being executed on Fluence. Customers and providers use the protocol to find each other and perform the work. Providers are free to filter what they are executing if they are restricted by local regulators, but as customers are not locked into a particular provider, there are always options to meet a customer’s criteria.
 
 ## 信任最小化
 
-Fluence网络运行在Aqua协议上，该协议确保了加密安全性，所有应用程序请求的身份验证，并为每次执行增加了证明和可审计性。这大大减少了对供应商良好声誉、品牌或声誉的依赖。客户现在信任该协议，而不是特定的提供商。
+Fluence网络运行在Aqua协议上，该协议确保了加密安全性，所有应用程序请求的身份验证，并为每次执行增加了证明和可审计性。这大大减少了对供应商良好声誉、品牌或声誉的依赖。客户现在只需信任该协议，而不是特定的提供商。
 
 The Fluence network runs on the Aqua protocol, which ensures cryptographic security, authentication of all application requests, and adds proofs and auditability for every execution. This dramatically decreases the reliance on provider good name, brand, or reputation. Customers now trust the protocol and not a particular provider.
 
